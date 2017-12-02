@@ -1,0 +1,2 @@
+# enchant-sample
+enchant.js
